@@ -1,0 +1,23 @@
+<nav class="navbar navbar-expand-sm navbar-light">
+    <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarContent">
+        <ul class="navbar-nav ml-auto mt-2 mt-lg-0 text-right">
+            {% for site_page in site.pages | sort: "navigation_order" %}
+                <li class="nav-item {% if page.url == site_page.url %} active {% endif %}">
+                    <a class="nav-link" href="{{ site_page.url }}">
+                        {% if site_page.navigation_title %}
+                            {{ site_page.navigation_title }}
+                        {% else %}
+                            {{ site_page.title }}
+                        {% endif %}
+                        {% if page.url == site_page.url %}
+                        <span class="sr-only">(current)</span>
+                        {% endif %}
+                    </a>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+</nav>
