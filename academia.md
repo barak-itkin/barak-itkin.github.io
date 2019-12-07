@@ -19,6 +19,8 @@ navigation_order: 2
 I did my Masters research in the Deep Learning Lab under the guidance of [prof. Lior Wolf](lior-wolf). My research is part of the **[ArchAIDE project](http://www.archaide.eu)**, which is included in the European Union's 2020 horizon program. The research focuses on building an **automatic classification system for pottery sherds, from single-view 2D images**.
 
 #### Publications
+* [Computational Ceramicology](https://arxiv.org/abs/1911.09960), published to arXiv to summarize my Masters thesis.<br /> _Barak Itkin, Lior Wolf and Nachum Dershowitz_
+* [Ranking Systems for Computer-Aided Single-View Pottery Classification](http://primage.tau.ac.il/libraries/theses/exeng/free/9933001299604146.pdf), my Masters thesis.<br /> _Barak Itkin_
 * [VaseSketch: Automatic 3D Representation of Pottery Classes from Paper Catalogue Drawings](vasesketch), accepted to [ICDAR 2017](icdar-2017).<br />
   _Francesco Banterle, Barak Itkin, Matteo Dellepiane, Lior Wolf, Marco Callieri, Nachum Dershowitz and Roberto Scopigno_
 * [The ArchAIDE Project: results and perspectives after the first year](archaide-first-year), published in the [15th Eurographics Workshops on Graphics and Cultural Heritage](eurographics-15).<br />
