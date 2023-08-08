@@ -5,10 +5,11 @@ layout: default
 navigation_order: 2
 ---
 
-**tl;dr** - I studied both my Bachelors and my Masters in Computer Science at [Tel Aviv University](https://www.tau.ac.il), and did my research under the guidance of [prof. Lior Wolf](lior-wolf), graduating in 2019. In addition, I am TA-ing the [Introduction to Information Security](https://infosec.cs.tau.ac.il) course.
+**tl;dr** - I studied both my Bachelors and my Masters in Computer Science at [Tel Aviv University](https://www.tau.ac.il), and did my research under the guidance of [prof. Lior Wolf](lior-wolf), graduating in 2019. In addition, from 2017 to 2022 I TA-ed the [Introduction to Information Security](https://infosec.cs.tau.ac.il) course.
 
 ### Teaching
 
+* Spring 2022 - TA for [Introduction to Information Security](https://infosec.cs.tau.ac.il/2022)
 * Spring 2021 - TA for [Introduction to Information Security](https://infosec.cs.tau.ac.il/2021)
 * Spring 2020 - TA for [Introduction to Information Security](https://infosec.cs.tau.ac.il/2020)
 * Spring 2019 - TA for [Introduction to Information Security](https://infosec.cs.tau.ac.il/2019)
