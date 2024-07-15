@@ -18,12 +18,12 @@ navigation_order: 2
 
 ### Research
 
-I did my Masters research in the Deep Learning Lab under the guidance of [prof. Lior Wolf](lior-wolf). My research is part of the **[ArchAIDE project](http://www.archaide.eu)**, which is included in the European Union's 2020 horizon program. The research focuses on building an **automatic classification system for pottery sherds, from single-view 2D images**.
+I did my Masters research in the Deep Learning Lab under the guidance of [prof. Lior Wolf](lior-wolf). My research is part of the **[ArchAIDE project](https://archaide-desktop.inera.it/)**, which is included in the European Union's 2020 horizon program. The research focuses on building an **automatic classification system for pottery sherds, from single-view 2D images**.
 
 #### Publications
 * [Computational visual ceramicology: Matching image outlines to catalog sketches](http://www.cs.tau.ac.il/~nachumd/papers/Ceramicology.pdf), 35th AAAI Conference on Artificial Intelligence (AAAI-21), 2021<br /> _Barak Itkin, Lior Wolf and Nachum Dershowitz_
 * [Computational Ceramicology](https://arxiv.org/abs/1911.09960), published to arXiv to summarize my Masters thesis.<br /> _Barak Itkin, Lior Wolf and Nachum Dershowitz_
-* [Ranking Systems for Computer-Aided Single-View Pottery Classification](http://primage.tau.ac.il/libraries/theses/exeng/free/9933001299604146.pdf), my Masters thesis.<br /> _Barak Itkin_
+* [Ranking Systems for Computer-Aided Single-View Pottery Classification](https://tau.primo.exlibrisgroup.com/permalink/972TAU_INST/quev9q/alma9933001299604146), my Masters thesis.<br /> _Barak Itkin_
 * [VaseSketch: Automatic 3D Representation of Pottery Classes from Paper Catalogue Drawings](vasesketch), accepted to [ICDAR 2017](icdar-2017).<br />
   _Francesco Banterle, Barak Itkin, Matteo Dellepiane, Lior Wolf, Marco Callieri, Nachum Dershowitz and Roberto Scopigno_
 * [The ArchAIDE Project: results and perspectives after the first year](archaide-first-year), published in the [15th Eurographics Workshops on Graphics and Cultural Heritage](eurographics-15).<br />
@@ -40,4 +40,4 @@ I did my Masters research in the Deep Learning Lab under the guidance of [prof. 
 [archaide-first-year]: http://vcg.isti.cnr.it/Publications/2017/BDEGIZ17/
 [eurographics-15]: http://gch17.tugraz.at/
 [archaide-york2017]: https://www.eventbrite.co.uk/e/archaide-discussion-workshop-york-tickets-38864514810
-[archaide-final-conference]: http://www.archaide.eu/blog/-/blogs/40726565?groupId=21275&pk=40726565&userId=21906
+[archaide-final-conference]: https://archaide-desktop.inera.it/blog/-/blogs/archaide-final-conference?groupId=20126&pk=2482245&userId=228845
