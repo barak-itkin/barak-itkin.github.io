@@ -14,7 +14,7 @@ I'm Barak Itkin, a Software/Algorithm engineer, a teacher, a dancer, and a perso
   [Tel Aviv University](https://www.tau.ac.il) from 2017 to 2022.
 * I graduated my **Masters degree in Computer Science** in 2019, after studying at
   [Tel Aviv University](https://www.tau.ac.il) under the guidance of [prof. Lior Wolf](https://www.cs.tau.ac.il/~wolf/).
-  My thesis, [Ranking Systems for Computer-Aided Single-View Pottery Classification](http://primage.tau.ac.il/libraries/theses/exeng/free/9933001299604146.pdf)
+  My thesis, [Ranking Systems for Computer-Aided Single-View Pottery Classification](https://tau.primo.exlibrisgroup.com/permalink/972TAU_INST/quev9q/alma9933001299604146)
   is about automated pottery classification for archaeology, by both shape and appearance. A shorter version (in
   paper format) is available on arXiv ([Computational Ceramicology](https://arxiv.org/abs/1911.09960)), and a similar
   version was [published in _AAAI-21, the 35th AAAI Conference on Artificial Intelligence_](https://ojs.aaai.org/index.php/AAAI/article/view/17740).
@@ -24,3 +24,5 @@ I'm Barak Itkin, a Software/Algorithm engineer, a teacher, a dancer, and a perso
 
 If you reached this site, it may be because you are trying to get in touch with me. In that case, try any of the following ways:
 {% include contact.html %}
+
+
