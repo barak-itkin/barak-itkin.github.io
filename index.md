@@ -5,11 +5,10 @@ navigation_order: 1
 ---
 Hi!
 
-I'm Barak Itkin, a Software/Algorithm engineer, a teacher, a dancer, and a person who does too many things, with not enough time. In short, here are the important things:
+I'm Barak Itkin, a Software/Algorithm engineer, a teacher, a dancer, and a person who does too many things, with not enough time. In short, here are the important points about me:
 
-* I'm currently working at [Google](https://www.google.com) as a **Software Engineer**, and previously I worked in
-  [Magic Leap](https://www.magicleap.com) as a **Computer Vision and Algorithms Engineer**. I also worked in a few
-  other places previously, check my [LinkedIn](https://www.linkedin.com/in/barakitkin/) if you need more information.
+* I'm currently working as a **Software Engineer** at [Microsoft](https://www.microsoft.com/), after previously working at [Google](https://www.google.com). Previously I also
+  worked as a **Computer Vision and Algorithms Engineer** in [Magic Leap](https://www.magicleap.com). For more details about my current and past employment, check my [LinkedIn](https://www.linkedin.com/in/barakitkin/).
 * I taught the [Introduction to Information Security](https://infosec.cs.tau.ac.il/) course at
   [Tel Aviv University](https://www.tau.ac.il) from 2017 to 2022.
 * I graduated my **Masters degree in Computer Science** in 2019, after studying at
